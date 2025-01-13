@@ -1,6 +1,5 @@
 <?php
 
-print "i am web";
+print "I am web";
 
-
->
+?>
